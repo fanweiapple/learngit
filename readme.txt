@@ -1,3 +1,4 @@
 Git is a version control system.
 Git is free software.
-Git is free a  mutable index called stage.
+Git is free  index called stage.
+Git tracks changes
