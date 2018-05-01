@@ -4,3 +4,4 @@ Git is free  index called stage.
 Git tracks changes
 Creating a new ranch is quick and simple.
 Add a new dev.
+loding new key.
